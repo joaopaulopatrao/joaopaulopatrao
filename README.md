@@ -22,8 +22,8 @@ Gosto de criar soluções limpas, rápidas e bem organizadas, sempre com arquite
 ## Projetos
 
 - **Docser.Space** — Indexação de arquivos, OCR otimizado e busca inteligente.  
-- **Report.Space** — Plataforma para relatórios com fluxo completo e automações.  
-- **SabedorIA** — Sistema educacional com IA, narrador, trilhas e recursos interativos.
+- **ReplyNow** — O ReplyNow é um jogo de perguntas e respostas alimentado por inteligência artificial, criado para testar seus conhecimentos em diversas categorias.
+
 
 ---
 
