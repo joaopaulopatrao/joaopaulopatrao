@@ -1,16 +1,38 @@
-## Hi there 👋
+# João Paulo Patrão
 
-<!--
-**joaopaulopatrao/joaopaulopatrao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor focado em aplicações web, sistemas escaláveis e integrações com IA.  
+Gosto de criar soluções limpas, rápidas e bem organizadas, sempre com arquitetura clara e desempenho sólido.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile views](https://komarev.com/ghpvc/?username=joaopaulopatrao&color=000000&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/joaopaulopatrao?style=flat&color=000000)
+![GitHub stars](https://img.shields.io/github/stars/joaopaulopatrao?style=flat&color=000000)
+
+---
+
+## Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,vite,firebase,elasticsearch,linux,nginx&theme=light" />
+</p>
+
+---
+
+## Projetos
+
+- **Docser.Space** — Indexação de arquivos, OCR otimizado e busca inteligente.  
+- **Report.Space** — Plataforma para relatórios com fluxo completo e automações.  
+- **SabedorIA** — Sistema educacional com IA, narrador, trilhas e recursos interativos.
+
+---
+
+## Sobre mim
+
+Trabalho com foco em clareza, estabilidade e desempenho.  
+Busco sempre entregar sistemas simples de usar, fáceis de manter e preparados para crescer.
+
+---
+
+## Contato  
+**E-mail:** joaopaulopatrao@outlook.com
