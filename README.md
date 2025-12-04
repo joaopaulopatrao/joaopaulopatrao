@@ -22,7 +22,7 @@ Gosto de criar soluções limpas, rápidas e bem organizadas, sempre com arquite
 ## Projetos
 
 - **Docser.Space** — Indexação de arquivos, OCR otimizado e busca inteligente.  
-- **ReplyNow** — O ReplyNow é um jogo de perguntas e respostas alimentado por inteligência artificial, criado para testar seus conhecimentos em diversas categorias.
+- **ReplyNow** — Jogo de perguntas e respostas alimentado por inteligência artificial, criado para testar seus conhecimentos em diversas categorias.
 
 
 ---
