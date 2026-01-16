@@ -35,7 +35,8 @@ Construo soluções práticas e bem estruturadas, focando em performance e arqui
 
 ## Projetos
 
-- **Docser.Space** — Indexação de arquivos, OCR otimizado e busca inteligente.  
+- **Docser.Space** — Indexação de arquivos, OCR otimizado e busca inteligente.
+- **Report.Space** — Plataforma de criação e gestão de relatórios.
 - **ReplyNow.fun** — Jogo de perguntas e respostas alimentado por inteligência artificial.
 
 ---
