@@ -1,6 +1,7 @@
 # João Paulo Patrão
-Desenvolvedor full-stack especializado em sistemas escaláveis e integrações com IA.  
-Construo soluções práticas e bem estruturadas, focando em performance e arquitetura limpa.
+
+Desenvolvedor full-stack com foco em sistemas escaláveis, integrações com IA e arquitetura limpa.  
+Crio soluções práticas, bem estruturadas e orientadas a performance, confiabilidade e manutenção.
 
 ---
 
@@ -33,15 +34,17 @@ Construo soluções práticas e bem estruturadas, focando em performance e arqui
 
 ---
 
-## Projetos
+## Projetos em destaque
 
-- **Docser.Space** — Indexação de arquivos, OCR otimizado e busca inteligente.
-- **Report.Space** — Plataforma de criação e gestão de relatórios.
-- **ReplyNow.fun** — Jogo de perguntas e respostas alimentado por inteligência artificial.
+- **Docser.Space** — Plataforma de indexação de arquivos, OCR otimizado e busca inteligente.
+- **Report.Space** — Sistema para criação, gestão e organização de relatórios.
+- **ReplyNow.fun** — Jogo interativo de perguntas e respostas com IA.
 
 ---
 
 ## Sobre mim
 
-Foco em arquitetura sólida, otimização de performance e gestão de sistemas complexos com Elasticsearch.  
-Busco sempre entregar código limpo, sistemas estáveis e soluções prontas para escalar.
+Tenho foco em arquitetura sólida, performance e construção de sistemas preparados para escalar.  
+Atuo no desenvolvimento de aplicações robustas, integrações inteligentes e estruturas eficientes para busca, processamento e organização de dados.
+
+Busco sempre entregar código limpo, soluções estáveis e produtos com visão de longo prazo.
